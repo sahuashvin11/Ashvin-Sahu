@@ -1,0 +1,24 @@
+1) What is Software?
+-> software is set of instructions ,data or programs used to operate computers and execute specific tasks.
+
+2) What are the types of Applications?
+-> these are the types of application in python :
+	-Web Development
+	-Artificial Intelligence and Machine Learning
+	-Game Development
+	-Desktop GUI Development
+	-Enterprise/ Business Applications
+	-Software Development
+	-Educational Purposes 
+
+3) What is programing?
+-> A programming language is a computer language that can be used by programmers (developers) to connect
+   with computers. It is a set of instructions written in any particular language (C, C++, Java, and 
+   Python) to implement a definite task. A programming language can create desktop applications, websites,
+   and mobile applications.
+
+4) What is Python?
+-> Python is a high-level, general-purpose and a very popular programming language. Python programming
+   language (latest Python 3) is being used in web development, Machine Learning applications, along with
+   all cutting edge technology in Software Industry. Python Programming Language is very well suited for
+   Beginners, also for experienced programmers with other programming languages like C++ and Java.
